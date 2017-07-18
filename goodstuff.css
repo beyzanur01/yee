@@ -1,0 +1,40 @@
+p {
+  color: 	#000000;
+  font=family: arial;
+  font-size:50px;
+}
+td {
+  height:40px;
+  border:2px solid #140e00;
+}
+table {
+  border:1px solid #bc4b4b;
+}
+a {
+  color:#bc4b4b;
+  text-decoration: none;
+}
+a:hover {
+  color:#0000ff;
+}
+* {
+  color:#aa98a9;
+}
+.mirror {
+  color:	#796878;
+}
+#plaza {
+  color:	#777696;
+}
+div {
+  height:100px;
+  width: 130px;
+  border:3px solid black;
+  border-radius:6px;
+  display:block;
+  background-color:	#777696;
+  margin-top:205px;
+  margin-left:314px;
+  float: right;
+
+}

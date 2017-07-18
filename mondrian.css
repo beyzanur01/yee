@@ -1,0 +1,85 @@
+#one {
+  height:100px;
+  width: 130px;
+  border:3px solid black;
+  border-radius:6px;
+  background-color:	#777696;
+  display:inline-table;
+}
+
+#two {
+  height:100px;
+  width: 130px;
+  border:3px solid black;
+  border-radius:6px;
+  background-color:	#997a8d;
+display:inline-table;
+}
+
+
+#three {
+  height:100px;
+  width: 130px;
+  border:3px solid black;
+  border-radius:6px;
+  background-color:	#777696;
+  display:inline-table;
+}
+
+#four {
+  height:100px;
+  width: 130px;
+  border:3px solid black;
+  border-radius:6px;
+  background-color:	white;
+  display:inline-table;
+}
+
+#five {
+  height:100px;
+  width: 130px;
+  border:3px solid black;
+  border-radius:6px;
+  background-color:	#997a8d;
+  display:inline-table;
+}
+
+#six {
+  height:100px;
+  width: 130px;
+  border:3px solid black;
+  border-radius:6px;
+  background-color:	#777696;
+    display:inline-table;
+}
+
+#seven {
+  height:100px;
+  width: 130px;
+  border:3px solid black;
+  border-radius:6px;
+  background-color:	#aa98a9;
+
+
+}
+
+#eight {
+  height:200px;
+  width: 130px;
+  border:3px solid black;
+  border-radius:6px;
+  background-color:		#796878;
+  display:inline-table;
+
+}
+
+#nine {
+  height:100px;
+  width: 120px;
+  border:3px solid black;
+  border-radius:6px;
+  background-color:	#777696;
+    display:block;
+
+
+}
